@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Draken S/AndroidStudioProjects/NewSkeletonCompose/app/src/main/res/layout/activity_main.xml" value="0.1403985507246377" />
+        <entry key="..\:/Users/Draken S/AndroidStudioProjects/NewSkeletonCompose/app/src/main/res/layout/activity_splash.xml" value="0.1403985507246377" />
+        <entry key="..\:/Users/Draken S/AndroidStudioProjects/NewSkeletonCompose/app/src/main/res/layout/fragment_blank.xml" value="0.1403985507246377" />
         <entry key="..\:/Users/Draken S/AndroidStudioProjects/NewSkeletonCompose/login/src/main/res/layout/activity_login.xml" value="0.16847826086956522" />
       </map>
     </option>

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:id="@+id/navigate">
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/splashFragment">
+
+    <include-dynamic
+        android:id="@+id/loginGraph"
+        app:moduleName="login"
+        app:graphResName="login_nav"/>
+
+    <fragment
+        android:id="@+id/splashFragment"
+        android:name="com.example.newskeletoncompose.view.SplashFragment"
+        android:label="fragment_splash"
+        tools:layout="@layout/fragment_splash" />
 
 </navigation>
