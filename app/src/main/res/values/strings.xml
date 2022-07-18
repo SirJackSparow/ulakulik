@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewSkeletonCompose</string>
+    <string name="title_login">Login</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Splash Screen</string>
+</resources>
