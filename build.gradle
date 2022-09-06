@@ -1,5 +1,5 @@
 buildscript {
-
+    ext.roomVersion = '2.4.2'
     dependencies {
         classpath "androidx.navigation:navigation-safe-args-gradle-plugin:2.5.0"
 
